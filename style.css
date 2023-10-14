@@ -1,0 +1,17 @@
+header{
+    background-color: #ff7dfd;
+    font-family: jetBrains Mono;
+    font-size: 128px;
+    height: 300px;
+    width: auto;
+}
+p{
+    font-family: jetBrains Mono;
+    font-size: 24px;
+}
+footer{
+    background-color: #ff7dfd;
+    font-family: jetBrains Mono; 
+    height: auto;
+    width: auto;
+}
